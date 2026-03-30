@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Level-2-Goblin
 - 👀 I’m interested in creating things.
-- 🌱 I’m currently learning Java Script on The Odin Project.
+
 
 
 <!---
